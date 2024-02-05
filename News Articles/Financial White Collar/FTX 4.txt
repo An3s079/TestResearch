@@ -1,0 +1,71 @@
+7,7,
+
+The article heavily emphasizes the widespread harm caused by the crime by noting that "FTX customers lost billions" and stating that "it is very unlikely at this point that anyone will see that money for a long time if ever." This indicates a significant impact on the victims (£7/10). 
+
+The article implies a degree of malicious intent from the perpetrator, indicated by the context that he had been engaging in "multi-years'-long fraud." It also mentions that Sam Bankman-Fried allegedly used FTX customer deposits to fund risky bets at another company he created, showing awareness about potential harm that this could cause (£7/10).
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) Now to the breaking news overnight. FTX founder Sam Bankman-Fried arrested in the Bahamas, set to face a judge this morning after US prosecutors filed criminal charges in connection with the multibillion-dollar collapse of his crypto company. Chief business correspondent Rebecca Jarvis has the latest. Good morning, Rebecca.
+
+REBECCA JARVIS (ABC NEWS) (Off-camera) Good morning, George. Arrested overnight in the Bahamas, charged this morning by the SEC. Remember, Sam Bankman-Fried is one of the most powerful people in cryptocurrency, and now he's accused of a multi-years'-long fraud.
+
+REBECCA JARVIS (ABC NEWS) (Voiceover) This morning, Sam Bankman-Fried, once celebrated as the poster child for transparency in cryptocurrency...
+
+SAM BANKMAN-FRIED (FOUNDER FTX) Thank you, Chair Waters, ranking member McHenry, and all members of the committee for having me to testify. It's an honor to be here.
+
+REBECCA JARVIS (ABC NEWS) ...whose company inked splashy partnerships with celebs like Tom Brady...
+
+TOM BRADY (QUARTERBACK TAMPA BAY BUCCANEERS) You know what? I'm in.
+
+REBECCA JARVIS (ABC NEWS) (Voiceover) ...and Steph Curry.
+
+COMMERCIAL VOICEOVER (MALE) This is Steph Curry, the world's leading expert on cryptocurrency.
+
+STEPH CURRY (GOLDEN STATE WARRIORS) I'm not.
+
+REBECCA JARVIS (ABC NEWS) (Voiceover) Arrested overnight by local authorities in the Bahamas at the request of the US government, charged by the US Attorney's Office for the Southern District of New York. The move coming just four weeks after Bankman-Fried's cryptocurrency exchange, FTX, one of the largest in the world, valued at over $32 billion earlier this year, filed for bankruptcy. Our George Stephanopoulos sitting down with Bankman-Fried in the Bahamas for his first ne network interview shortly after.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) A lot of people look at you and see Bernie Madoff.
+
+SAM BANKMAN-FRIED (FOUNDER FTX) Yeah. I mean, I don't think that's who I am at all, but I understand why they're saying that. People lost money.
+
+REBECCA JARVIS (ABC NEWS) (Voiceover) In fact, FTX customers lost billions. At issue now is why. Thirty-year-old Bankman-Fried allegedly used FTX customer deposits to fund risky bets at the other company he created and owned, a hedge fundal called Alameda.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) Are you worried about going to jail?
+
+SAM BANKMAN-FRIED (FOUNDER FTX) There are a lot of things that are worrying me right now. And, you know, as best as possible I'm trying to focus on what I can do going forward to be helpful and, you know, let whatever, you know, regulatory and legal processes are happening play out as they will.
+
+REBECCA JARVIS (ABC NEWS) (Off-camera) And since that interview with you, George, a lot has played out. Sam Bankman-Fried was supposed to be testifying before Congress today over Zoom. That's not going to happen. He's now been charged by the SEC. And those federal charges will also be unsealed later this morning, George.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) Okay, Rebecca. Any chance he can avoid extradition?
+
+REBECCA JARVIS (ABC NEWS) (Off-camera) Well, he's going to very likely fight it. And if you look at his activities and his actions, I know you spoke to him in that interview about why he was in the Bahamas as his company was bankrupt, why not come to the United States?
+
+REBECCA JARVIS (ABC NEWS) (Voiceover) He's kept from doing that to this point, yet he's done over a dozen interviews, many of them where he's playing video games in the background.
+
+REBECCA JARVIS (ABC NEWS) (Off-camera) And he said just yesterday in one of those interviews that he wasn't planning to come to the United States to testify before Congress in person because he was afraid of the paparazzi. Now, there's the other part of this, George. And that is the people who have lost money because they put it in FTX. It is very unlikely at this point that anyone will see that money for a long time if ever. George?
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) Okay, Rebecca, thanks. Let's get more on this from chief legal analyst Dan Abrams. Pretty quick arrest.
+
+DAN ABRAMS (ABC NEWS) (Off-camera) Yeah. He won't be able to avoid extradition, by the way. There's just no way. The Bahamas and the United States have a very firm agreement in place. And you can already tell as to where things are going right now.
+
+GRAPHICS: WILL HE FIGHT EXTRADITION?
+
+DAN ABRAMS (ABC NEWS) (Off-camera) As you point out, very quick arrest, very quick in terms of the relationship between the Bahamians and the United States. Two things that I find interesting about the timing of the arrest. Number one, he was supposed to testify in front of Congress tomorrow, today. Why not just let him testify, get more statements on the record and then arrest him? A lot of members of Congress are frustrated now. You know, it is sort of interesting that they decided to do it the day before. Also, the fact that they did it under seal. They clearly wanted to do it quickly, make sure he didn't go anywhere and get that arrest in place.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) That's under seal. The SEC, just moments ago, announced charges against him as well.
+
+DAN ABRAMS (ABC NEWS) (Off-camera) Yeah. And that's not surprising either. I mean, you know, I think it's, both of them are of concern. I think the federal criminal charges are even of more concern to him.
+
+DAN ABRAMS (ABC NEWS) (Voiceover) But, look, I think this is just the beginning of the legal process.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) You think we're going to see those interviews like the one I did in these indictments?
+
+DAN ABRAMS (ABC NEWS) (Off-camera) Absolutely. You'll see them whether in the indictments or actually in the trial. I mean, I think that you will see in the trial his words come out against him in some way, shape or form. Is it that he testifies? Is it that they use your interview? But there's no doubt, I think, that they are going to use them in some way. And this is why, even when someone says, I didn't do anything wrong, right? I didn't do, I'm not guilty of this, that doesn't mean that prosecutors won't be able to use it in some way against you.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) And we know he defied legal advice to do those interviews.
+
+DAN ABRAMS (ABC NEWS) (Off-camera) Absolutely, yeah.
+
+GEORGE STEPHANOPOULOS (ABC NEWS) (Off-camera) Dan Abrams, thanks very much. Michael?
+
+MICHAEL STRAHAN (ABC NEWS) (Off-camera) All right, thank you, George.

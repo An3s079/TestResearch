@@ -1,0 +1,23 @@
+3,7,
+
+The article describes a crime of fraud by the three former Enron Corp. executives, which indirectly impacted victims through falsified accountings and misleading financial reporting. However, the harm caused to the victims or the overall impact on society is not extensively described in the article, reducing the harm portrayal score. (3/10)
+
+The article describes a scenario suggesting significant malicious intent. The implicated executives are said to have knowingly sold a troubled project, and intentionally altered the financial records to reflect false and misleading earnings. This implicates a knowing intent to cause harm and gain wealth via fraudulent means, which suggests a high degree of malice. (7/10)
+
+WASHINGTON (AP) Three former Enron Corp. executives were charged by the Securities and Exchange Commission with fraud and other violations Thursday for their role in a 1999 sale of Enron's troubled Brazilian power project.
+
+Former executives Jerry Kent Castleman, Cheryl Lipshutz and Kathleen Lynn aided and abetted the Houston energy-trading company in reporting false and misleading results for 1999 and 2000, and the first half of fiscal 2001, the SEC alleged in its complaint.
+
+Castleman was chief accounting officer of Enron's South American subsidiary, and Lynn was a senior vice president of Enron International. Lipshutz, formerly chief financial officer of Enron Energy Services, didn't admit to or deny the allegations, but agreed to return $27,150 of allegedly ill-gotten gains and interest, and pay a $25,000 fine to settle the matter. The SEC said it intends to put the money into a fund that eventually will be distributed to victims of Enron's fraudulent accounting.
+
+Lipshutz's attorney couldn't be reached immediately for comment.
+
+The SEC's charges stem from revenue Enron recognized on the sale of a power project in Cuiaba, Brazil, to LJM1, an entity controlled by then Enron Chief Financial Officer Andrew Fastow. The SEC said the revenue shouldn't have been recorded because Fastow had an oral agreement that the deal wouldn't entail any losses for the buyer. Enron paid a profit to LJM1 and later bought back the stake without adjusting the previously recorded earnings, the SEC alleged.
+
+Castleman worked with Lipshutz to negotiate the sale and with Lynn on the buyback, according to the SEC. It said the executives knew or should have known of Fastow's side agreement, which wasn't included in the deal documents or disclosed to Enron's auditors. Regulators also claim the executives knew the Cuiaba project was troubled and knew or should have known that Enron sold it to ``manufacture earnings.''
+
+The SEC is seeking to fine the former Enron executives and bar Castleman from serving as an officer or director of a public company.
+
+``Mr. Castleman is a good man and a fine professional,'' said his Houston-based attorney, Eric Reed. ``We want to get all of this behind him in the most just way possible.''
+
+Lynn's attorney had no immediate comment on the SEC's allegations.

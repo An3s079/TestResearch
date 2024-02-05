@@ -1,0 +1,13 @@
+6,4,
+
+The article describes the harm caused by the crime as moderate (6/10). It mentions the crash and the injuries sustained by the driver, but does not delve into specifics or emphasize the impact much. However, it does mention that there are over a thousand other affected people, implying a larger, more extensive harm.
+
+The article ascribes low maliciousness to the crime (4/10). The defect in the ignition switch leading to non-deployment of airbags in a crash could cause harm, but the article does not detail whether General Motors knew about this defect and intentionally ignored it or it was an unintentional malfunction. There is no mention of selfish motives either.
+
+NEW YORK _ A civil trial is set to start in New York that will test the boundaries of hundreds of claims remaining against General Motors over faulty ignition switches.
+
+A section of a car sits in a Manhattan federal courtroom where jury selection begins Monday in a case involving an Oklahoma crash that injured the driver.
+
+It's the first of six trials scheduled over the next year to narrow legal issues in lawsuits affecting more than 1,000 people.
+
+The trials will begin with the claims of Robert Scheuer, of Tulsa. His lawyer says a defective ignition switch prevented air bags from deploying when his car smashed into trees.

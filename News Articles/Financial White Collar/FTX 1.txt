@@ -1,0 +1,55 @@
+1,1,
+
+The harmfullness of the financial crime is underplayed (1/10), The article largely focuses on the technical and legal procedures of the settlement, with no emphasis on the potential harm to investors or customers caused by the financial issues at the firm.
+
+The article does not indicate any explicitly malicious intent from the perpetrator (1/10), The emphasis is mostly on resolving the ongoing issues, with no mention of knowing harm, malicious action or selfish motives on the part of the firm or individuals involved. The language used is largely neutral and technical, which underplays the severity and potential maliciousness of such financial misconduct.
+
+FTX Trading Ltd. (d.b.a. FTX.com) and its affiliated debtors have reached a global settlement with Brian C. Simms KC, Peter Greaves and Kevin Cambridge, the Joint Official Liquidators on behalf of FTX Digital Markets Ltd., the wholly-owned subsidiary of the Debtors that is subject to a liquidation proceeding in The Bahamas, the principals said.
+
+The settlement is reflected in a Global Settlement Agreement, signed by the parties TODAY. The Global Settlement Agreement is subject to the approval of the US Bankruptcy Court for the District of Delaware and the Supreme Court of the Bahamas Court, which approvals the parties have agreed to seek promptly.
+
+The Global Settlement Agreement reflects a novel and mutually-beneficial solution to the complex cross-border legal issues raised by the circumstances of the collapse of the FTX group.
+
+Under the Global Settlement Agreement, and subject to the approval of the two Courts:
+
+For the purposes of making distributions to FTX.com customers, the FTX Debtors and FTX Digital Markets will pool assets and coordinate the establishment of reserves and the timing and amount of distributions, in order to ensure that FTX.com customers in both proceedings receive substantially identical relative distributions at substantially identical times.
+
+Subject to the Global Settlement Agreement, all customers of FTX.com (other than insiders and certain excluded customers against whom the FTX Debtors have pending or potential claims) will have the election to have their claims reconciled and paid in the Chapter 11 cases of the FTX Debtors or in the liquidation proceeding for FTX Digital Markets in the Bahamas, under elective procedures to be finalized and proposed to the Courts for prior approval.
+
+The parties intend that this election by customers will not have material economic consequences for holders of claims.
+
+The FTX Debtors and FTX Digital Markets have agreed to seek to reconcile their approaches to the valuation of FTX.com customer claims in order to minimize potential discrepancies in the administration of their respective proceedings.
+
+All FTX.com customer claims for cash or digital assets (other than those relating to NFTs) will be valued in both proceedings in US Dollars as of the applicable petition dates, with no differential payments based on post-petition fluctuations in asset prices.
+
+The valuation of digital assets at the petition time will reflect a consensual approach between the FTX Debtors and FTX Digital Markets, approved by both Courts.
+
+FTT interests against the FTX Debtors and FTX Digital Markets will be treated as equity and not receive any recovery.
+
+Customer preferences will be reconciled in a jointly-administered process, pursuant to which the FTX Debtors and FTX Digital Markets will apply a consensual preference policy informed by the settlement announced by the FTX Debtors on October 16, 2023.
+
+FTX DM will adopt the same know-your-customer procedures implemented by the FTX Debtors in the Chapter 11 cases.
+
+KYC will be implemented in a coordinated manner designed to ensure compliance with applicable law in the United States, The Bahamas and all other applicable jurisdictions.
+
+Eligible FTX.com customers are expected to make the election on their plan ballot or by a separate process in the second quarter of 2024 to determine the jurisdiction in which they elect to have their claims reconciled and paid.
+
+The FTX Debtors and FTX Digital Markets currently anticipate that eligible FTX.com customers will be able to make this election either in response to Chapter 11 plan ballots distributed by the FTX Debtors or a separate proof of debt form filed in FTX Digital Markets' liquidation proceeding.
+
+FTX.com customers will be required to elect to file their claim either against the FTX Debtors or FTX Digital Markets, and shall not be permitted to file the same claim in both proceedings and will release their claims in the proceeding that is not elected.
+
+Eligible FTX.com customers that do not make any election will have their claims reconciled and paid in the Chapter 11 cases.
+
+FTX.com customers are cautioned that the Global Settlement Agreement has not been approved by either Court and may change materially.
+
+More information about the reconciliation and treatment of FTX.com customer claims by the FTX Debtors and FTX Digital Markets and related risks will be included in the Disclosure Statement prepared by the FTX Debtors and approved by the Bankruptcy Court prior to any solicitation of FTX.com customers.
+
+The Global Settlement Agreement also includes important agreements between the FTX Debtors and FTX Digital Markets with respect to the monetization of the assets of the FTX group and inter-estate funding.
+
+The parties have agreed that, subject to the approval of both Courts, FTX Digital Markets will take the operational lead in managing the value-maximizing disposition of real estate and other assets in The Bahamas and in pursuing specific litigation and avoidance actions identified in the Global Settlement Agreement as part of the ongoing efforts to maximize recoveries for customers and creditors.
+
+The FTX Debtors will take the operational lead in all other recovery activities. In each case, the parties will cooperate, share information and efficiently utilize the assistance of their respective Courts.
+
+The Global Settlement Agreement, if approved by both Courts, will constitute a component part of the plan of reorganization in the Chapter 11 cases.
+
+The amended plan of reorganization filed by the Debtors on December 16, 2023 will be revised to incorporate the global settlement with the JOLs and may continue to be adjusted as the FTX Debtors continue to make progress fitting together the parts of a consolidated approach to the consensual resolution of the Chapter 11 cases of the FTX group.
